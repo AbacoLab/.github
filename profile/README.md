@@ -2,7 +2,7 @@
 
 In 1202 Fibonacci's *Liber Abaci* taught merchants to count before they traded. We still do: data, code, tests and execution for systematic traders.
 
-*Out of sample, or it doesn't count.*
+*Out of sample, by choice.*
 
 - **TradingView** · [AbacoLab](https://www.tradingview.com/u/AbacoLab/)
 - **X** · [@AbacoLab](https://x.com/AbacoLab)
